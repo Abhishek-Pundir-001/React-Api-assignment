@@ -1,0 +1,10 @@
+.img-div {
+    width: 25%;
+    text-align: center;
+}
+
+.img {
+    width: 75%;
+    margin: 10px 0px;
+    border-radius: 12px;
+}
